@@ -10,11 +10,7 @@ public class ClaseMain {
 		ClasePersistencia cp = new ClasePersistencia();
 		ClaseIG cig = new ClaseIG();
 		ClasePojo pojo = new ClasePojo();
-		
-		
-			
-		
-
+		//heyy
 	}
 
 }
